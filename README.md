@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Praveen
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Deep learning and NLP
+- 👀 I’m interested in Agentic AI
 - I'm working as senior software developer
   
 
